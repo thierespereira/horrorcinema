@@ -1,0 +1,10 @@
+Date: 16/12/2015 10:53:38
+Film: 01 - Night of The Living Dead
+No. of Tickets: 3
+Age: 34
+Total Price: 28.8
+Date: 16/12/2015 10:57:13
+Film: 13 - Friday the 13th
+No. of Tickets: 89
+Age: 55
+Total Price: 854.4
