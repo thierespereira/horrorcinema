@@ -9,10 +9,8 @@ people depending on their age, and they wish for this feature to be included as 
 
 ## Authors
 
-* **Thieres Pereira** - [ThieresPereira](https://github.com/thierespereira)
+* **Thieres Pereira** - [Thieres Pereira](https://github.com/thierespereira)
 
 ## Acknowledgments
 
-* The main goal of this assignment was to practice how to read and write files using java.
-* Inspiration
-* etc
+* This was an individual assignment and its main goal was to practice how to read and write files using java.
